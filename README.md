@@ -5,7 +5,7 @@ This app has no database so nothing to worry about security issue. App is hosted
 Steps
 
 1.  First enter your name.
-2.  Share link with your friend or friends
+2.  Share link with your friends
 
 Enjoy the app.
 
